@@ -1,0 +1,15 @@
+---
+title: "Being a Semi-automated Lint Roller on Wikipedia"
+author: Caifan Du
+date: April 2018
+subtitle: INF 385T Peer Production | Spring 2018
+output: 
+  ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Check Wiki Project
+
